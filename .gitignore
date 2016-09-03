@@ -1,6 +1,7 @@
 /*
 *.meta
+/ProjectSettings
+/ProjectSettings/*
 !/Assets
 /Assets/*
 !/Assets/Scripts
-!/ProjectSettings
